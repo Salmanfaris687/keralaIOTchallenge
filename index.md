@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/Salmanfaris687/keralaIOTchallenge/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This site is to document the projects and experiments done as a part of kerala iot challenge.Kerala IoT Challenge is a program designed in 4 levels followed by a hackathon to identify and train quality industry leaders in the IoT domain, while any novice learner can start with layer 1 and others can enter laterally to the desired layer after an evaluation.
+
+## About me
+
+Iam SALMAN FARIS Btech Computer Science And Engineering Student At Cochin University Of Science And Technology, Ernakulam, Kerala, India. I love to learn tehnology and try new things. I also love to code and play video games. Iam passionate about computer science. Iam a web developer currently working as a freelancer and part time developer. Iam always ready to work on cool projects and contribute to open source. Feel free to contact me for collaboration or any kind of stuffs related to computer science. connect with me through Linkedin
+
+Level 1 Level 2 View it on GitHub
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
