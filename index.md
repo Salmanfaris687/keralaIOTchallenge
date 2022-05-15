@@ -6,35 +6,51 @@ This site is to document the projects and experiments done as a part of kerala i
 
 Iam SALMAN FARIS Btech Computer Science And Engineering Student At Cochin University Of Science And Technology, Ernakulam, Kerala, India. I love to learn tehnology and try new things. I also love to code and play video games. Iam passionate about computer science. Iam a web developer currently working as a freelancer and part time developer. Iam always ready to work on cool projects and contribute to open source. Feel free to contact me for collaboration or any kind of stuffs related to computer science. connect with me through Linkedin
 
-Level 1 Level 2 View it on GitHub
+## Level 1
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This section contains the experiments and projects done as a part of kerala iot challenge level 1
 
-### Markdown
+**Level 1 consists of basic electronics, sensors, arduino programming and a live project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Experiments
+This section contains the experiments done as part of kerala iot challenge level 1
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Experiment 1 : Hello World Led Blinking
 
-1. Numbered
-2. List
+<u>Components Required</u>
 
-**Bold** and _Italic_ and `Code` text
+- Arduino Uno Board
+- USB Cable
+- LED (Any Color) x 1 Nos
+- 220 OHM Resistor X 1 Nos
+- Breadboard
+- Jumper Wires (Male to Male ) X 2 Nos
 
-[Link](url) and ![Image](src)
+Circuit diagram
+
+![image](https://user-images.githubusercontent.com/76479492/168489390-af2e073a-d1cd-46a4-8d67-4f8c249b6bc5.png)
+
+
+<u>Code</u>
+```C++
+int ledPin = 10; // define digital pin 10.
+void setup()
+{
+pinMode(ledPin, OUTPUT);// define pin with LED connected as output.
+}
+void loop()
+{
+digitalWrite(ledPin, HIGH); // set the LED on.
+delay(1000); // wait for a second.
+digitalWrite(ledPin, LOW); // set the LED off.
+delay(1000); // wait for a second
+}
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Result: https://youtube.com/shorts/R-UdT4j3jIo?feature=share
 
-### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Salmanfaris687/keralaIOTchallenge/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
