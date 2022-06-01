@@ -850,7 +850,7 @@ This section contains the projects done after doing experiments of kerala iot ch
 
 
 
-**Create an automatic night lamp model using LDR and LED
+### Create an automatic night lamp model using LDR and LED
 
 
 
@@ -888,8 +888,7 @@ result: https://youtube.com/shorts/9nMSeni_bOg?feature=share
 
 
 
-
-**Create a Digital Dice using 6 LEDs and 1 Push Button
+### Create a Digital Dice using 6 LEDs and 1 Push Button
 
 
 
@@ -929,7 +928,7 @@ result : https://youtube.com/shorts/9j5IdT0Oug8?feature=share
 
 
 
-**Create a Digital Dice using 7 Segment Display and Push Button
+### Create a Digital Dice using 7 Segment Display and Push Button
 
 
 
