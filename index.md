@@ -848,7 +848,11 @@ Result: ![image](https://user-images.githubusercontent.com/76479492/168493494-6e
 This section contains the projects done after doing experiments of kerala iot challenge level 1
 
 
+
+
 **Create an automatic night lamp model using LDR and LED
+
+
 
 
 <u>Code</u>
@@ -873,13 +877,19 @@ void loop()
   Serial.println(digitalRead(potpin));
   delay(10);// wait for 0.01 
 }
+```
+
 
 
 result: https://youtube.com/shorts/9nMSeni_bOg?feature=share 
 
 
 
+
+
+
 **Create a Digital Dice using 6 LEDs and 1 Push Button
+
 
 
 <u>Code</u>
@@ -907,6 +917,7 @@ void loop()
     digitalWrite(led_pin, HIGH);
   }
 }
+```
 
 
 result : https://youtube.com/shorts/9j5IdT0Oug8?feature=share
@@ -914,7 +925,11 @@ result : https://youtube.com/shorts/9j5IdT0Oug8?feature=share
 
 
 
+
+
+
 **Create a Digital Dice using 7 Segment Display and Push Button
+
 
 
 <u>Code</u>
@@ -1025,6 +1040,7 @@ void loop()
     break;
   }
 } 
+```
 
 
 
