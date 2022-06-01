@@ -2,9 +2,13 @@
 
 This site is to document the projects and experiments done as a part of kerala iot challenge.Kerala IoT Challenge is a program designed in 4 levels followed by a hackathon to identify and train quality industry leaders in the IoT domain, while any novice learner can start with layer 1 and others can enter laterally to the desired layer after an evaluation.
 
+
+
 ## About me
 
 Iam SALMAN FARIS Btech Computer Science And Engineering Student At Cochin University Of Science And Technology, Ernakulam, Kerala, India. I love to learn tehnology and try new things. I also love to code and play video games. Iam passionate about computer science. Iam a web developer currently working as a freelancer and part time developer. Iam always ready to work on cool projects and contribute to open source. Feel free to contact me for collaboration or any kind of stuffs related to computer science. connect with me through Linkedin
+
+
 
 
 
@@ -16,13 +20,16 @@ This section contains the experiments and projects done as a part of kerala iot 
 **Level 1 consists of basic electronics, sensors, arduino programming and a live project
 
 
+
 # Experiments
 This section contains the experiments done as part of kerala iot challenge level 1
 
 
 
 
+
 ## Experiment 1 : Hello World Led Blinking
+
 
 <u>Components Required</u>
 
