@@ -856,6 +856,7 @@ This section contains the projects done after doing experiments of kerala iot ch
 
 
 <u>Code</u>
+
 ```c++
 int potpin=7;
 int ledpin=11;
@@ -893,9 +894,9 @@ result: https://youtube.com/shorts/9nMSeni_bOg?feature=share
 
 
 <u>Code</u>
+
 ```c++
 long led_pin;
-
 void setup()
 {
   pinMode(8,INPUT);  
@@ -933,6 +934,7 @@ result : https://youtube.com/shorts/9j5IdT0Oug8?feature=share
 
 
 <u>Code</u>
+
 ```c++
 int a=7;
 int b=6;
